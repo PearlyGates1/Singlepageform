@@ -12,9 +12,8 @@ body {
         font-family: "Poppins", sans-serif;
         text-align: center;
         height: 100vh;
-        display: grid;
+        display: flex;
         place-items: center;
-        grid-template-columns: repeat(2, minmax(250px, 1fr));
     }
 
     .main {
