@@ -35,11 +35,10 @@ body {
 
     .text h1 {
         font-size: 30px;
-        line-height: 1;
+        line-height: 2;
         padding-bottom: 50px;
-        font-weight: bolder;
-        font-size: 30px;
-    }
+       
+   }
 
     .text, p {
         font-size: 11px;
